@@ -22,10 +22,6 @@ Arduinoのハードウエアのライセンスより同一条件の継承義務(
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 このハードウェアは <a rel="license" href="https://creativecommons.org/licenses/by/4.0/legalcode.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ BY-SA の要約</a>
-
-クリエイティブ・コモンズ BY-SA の MarkDown https://github.com/idleberg/Creative-Commons-Markdown/edit/master/4.0/by-sa.markdown
-
 以下は許可されます。
 * 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
 * 改変の禁止(ND)はありません：作品を改変・変形または加工してもいいです。
