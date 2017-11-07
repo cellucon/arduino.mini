@@ -90,21 +90,15 @@ void loop()
       i--;
     }
     else if ( d == 'm' ) {
-      sv11.writeMicroseconds(analog0);
-      sv12.writeMicroseconds(analog1);
+      sv9.writeMicroseconds(analog0);
+      sv10.writeMicroseconds(analog1);
       analog0 = 0;
       analog1 = 0;
       i = 7;
     } else if ( d == 'x' ) {
-      //sv5.writeMicroseconds(analog9);
-      //moveShaft(sv5, analog0, 5);
-      //Serial.println("camera x  : " + String(analog9, DEC));
       analog0 = 0;
       i = 7;
     } else if ( d == 'y' ) {
-      //sv6.writeMicroseconds(analog9);
-      //moveShaft(sv6, analog0, 5);
-      //Serial.println("camera y  : " + String(analog9, DEC));
       analog0 = 0;
       i = 7;
     }
